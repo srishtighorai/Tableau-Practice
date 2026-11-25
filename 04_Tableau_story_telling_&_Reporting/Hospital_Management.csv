@@ -1,0 +1,261 @@
+Patient_ID,Admission_Date,Discharge_Date,Hospital_Region,Department,Doctor_Name,Diagnosis,Treatment_Type,Treatment_Cost,Length_of_Stay,Outcome,Gender,Age_Group
+HSP-2000,14-06-2024,17-06-2024,West,Cardiology,Dr. Sharma,Diabetes,Surgery,58024.89,3,Recovered,Male,0-18
+HSP-2001,14-02-2024,21-02-2024,West,Cardiology,Dr. Iyer,Heart Disease,Observation,13571.02,7,Critical,Male,19-35
+HSP-2002,18-11-2024,29-11-2024,Central,Cardiology,Dr. Mehta,Diabetes,Observation,12190.45,11,Recovered,Male,65+
+HSP-2003,09-03-2024,14-03-2024,West,Neurology,Dr. Mehta,Heart Disease,Therapy,86237.31,5,Critical,Male,0-18
+HSP-2004,24-10-2024,03-11-2024,South,Orthopedics,Dr. Sharma,Diabetes,Surgery,86833.4,10,Critical,Male,51-65
+HSP-2005,14-12-2024,23-12-2024,West,Orthopedics,Dr. Patel,Diabetes,Observation,57429.44,9,Recovered,Male,19-35
+HSP-2006,11-02-2024,21-02-2024,East,General Medicine,Dr. Patel,Migraine,Observation,46750.98,10,Recovered,Male,65+
+HSP-2007,02-08-2024,05-08-2024,East,Neurology,Dr. Patel,Infection,Surgery,144492.77,3,Recovered,Female,36-50
+HSP-2008,21-12-2024,27-12-2024,Central,Pediatrics,Dr. Mehta,Infection,Surgery,126795.33,6,Under Treatment,Female,0-18
+HSP-2009,01-02-2024,13-02-2024,East,General Medicine,Dr. Roy,Infection,Therapy,108911.03,12,Critical,Female,0-18
+HSP-2010,24-08-2024,30-08-2024,South,General Medicine,Dr. Sharma,Infection,Surgery,36640.13,6,Under Treatment,Male,19-35
+HSP-2011,22-07-2024,29-07-2024,West,Cardiology,Dr. Iyer,Infection,Observation,84668.79,7,Recovered,Female,65+
+HSP-2012,22-05-2024,03-06-2024,West,Orthopedics,Dr. Roy,Infection,Medication,26883.53,12,Recovered,Male,19-35
+HSP-2013,03-12-2024,07-12-2024,North,Pediatrics,Dr. Mehta,Fracture,Therapy,45879.95,4,Recovered,Female,65+
+HSP-2014,08-07-2024,18-07-2024,Central,Orthopedics,Dr. Iyer,Hypertension,Surgery,71213.34,10,Critical,Female,51-65
+HSP-2015,23-07-2024,30-07-2024,North,Pediatrics,Dr. Roy,Infection,Surgery,32638.38,7,Recovered,Female,19-35
+HSP-2016,26-02-2024,03-03-2024,Central,Cardiology,Dr. Sharma,Heart Disease,Medication,82809.71,6,Under Treatment,Male,0-18
+HSP-2017,16-04-2024,26-04-2024,West,Neurology,Dr. Roy,Migraine,Therapy,92330.48,10,Under Treatment,Male,0-18
+HSP-2018,06-09-2024,14-09-2024,West,Pediatrics,Dr. Khan,Heart Disease,Medication,19817.2,8,Under Treatment,Female,51-65
+HSP-2019,20-12-2024,23-12-2024,Central,Cardiology,Dr. Iyer,Diabetes,Therapy,26257.37,3,Critical,Male,65+
+HSP-2020,01-06-2024,12-06-2024,North,Orthopedics,Dr. Mehta,Migraine,Medication,56575.94,11,Recovered,Female,19-35
+HSP-2021,09-11-2024,22-11-2024,South,Neurology,Dr. Patel,Hypertension,Medication,33988.11,13,Under Treatment,Female,0-18
+HSP-2022,15-01-2024,28-01-2024,East,Pediatrics,Dr. Khan,Fracture,Therapy,69848.01,13,Critical,Female,36-50
+HSP-2023,11-02-2024,15-02-2024,North,Neurology,Dr. Patel,Fracture,Therapy,34634.14,4,Critical,Male,51-65
+HSP-2024,30-11-2024,06-12-2024,North,Cardiology,Dr. Patel,Hypertension,Medication,74314.75,6,Recovered,Female,36-50
+HSP-2025,14-02-2024,27-02-2024,West,Pediatrics,Dr. Patel,Hypertension,Surgery,110095.81,13,Recovered,Male,0-18
+HSP-2026,18-03-2024,28-03-2024,West,Neurology,Dr. Mehta,Diabetes,Observation,100303.9,10,Under Treatment,Male,65+
+HSP-2027,07-10-2024,10-10-2024,North,Cardiology,Dr. Roy,Hypertension,Surgery,81354.25,3,Recovered,Female,19-35
+HSP-2028,18-04-2024,19-04-2024,East,Neurology,Dr. Khan,Diabetes,Medication,115733.57,1,Under Treatment,Female,65+
+HSP-2029,02-08-2024,16-08-2024,South,Cardiology,Dr. Roy,Migraine,Observation,101058.85,14,Critical,Female,65+
+HSP-2030,07-03-2024,16-03-2024,South,General Medicine,Dr. Mehta,Heart Disease,Observation,117593.39,9,Critical,Male,19-35
+HSP-2031,29-03-2024,01-04-2024,West,General Medicine,Dr. Roy,Heart Disease,Surgery,52267.41,3,Critical,Female,0-18
+HSP-2032,13-10-2024,14-10-2024,South,Neurology,Dr. Khan,Heart Disease,Surgery,78618.53,1,Critical,Male,0-18
+HSP-2033,14-08-2024,20-08-2024,Central,General Medicine,Dr. Mehta,Diabetes,Medication,105446,6,Under Treatment,Female,65+
+HSP-2034,06-05-2024,18-05-2024,Central,Orthopedics,Dr. Mehta,Fracture,Observation,24884.49,12,Recovered,Female,51-65
+HSP-2035,10-06-2024,12-06-2024,South,Pediatrics,Dr. Sharma,Fracture,Therapy,118670.72,2,Recovered,Female,19-35
+HSP-2036,09-05-2024,24-05-2024,South,Pediatrics,Dr. Iyer,Hypertension,Surgery,62747.25,15,Under Treatment,Male,19-35
+HSP-2037,23-03-2024,04-04-2024,West,General Medicine,Dr. Patel,Migraine,Observation,33382.98,12,Under Treatment,Male,36-50
+HSP-2038,10-01-2024,16-01-2024,Central,Pediatrics,Dr. Patel,Hypertension,Surgery,60729.96,6,Critical,Female,65+
+HSP-2039,02-02-2024,04-02-2024,South,Cardiology,Dr. Sharma,Migraine,Therapy,10740.29,2,Recovered,Female,19-35
+HSP-2040,04-08-2024,18-08-2024,East,Pediatrics,Dr. Iyer,Diabetes,Observation,106560.53,14,Recovered,Female,0-18
+HSP-2041,18-12-2024,21-12-2024,West,Cardiology,Dr. Khan,Heart Disease,Surgery,121236.15,3,Recovered,Male,0-18
+HSP-2042,15-05-2024,29-05-2024,North,Pediatrics,Dr. Sharma,Migraine,Observation,139367.05,14,Under Treatment,Male,0-18
+HSP-2043,26-09-2024,08-10-2024,South,Cardiology,Dr. Iyer,Migraine,Surgery,31266.17,12,Under Treatment,Female,65+
+HSP-2044,15-04-2024,20-04-2024,West,General Medicine,Dr. Roy,Fracture,Therapy,55315.15,5,Recovered,Female,0-18
+HSP-2045,08-01-2024,09-01-2024,Central,General Medicine,Dr. Iyer,Diabetes,Observation,40623.53,1,Under Treatment,Male,51-65
+HSP-2046,02-12-2024,10-12-2024,Central,Pediatrics,Dr. Mehta,Migraine,Medication,147453.88,8,Under Treatment,Male,19-35
+HSP-2047,26-07-2024,01-08-2024,North,Neurology,Dr. Sharma,Heart Disease,Therapy,67457.4,6,Recovered,Male,51-65
+HSP-2048,16-09-2024,27-09-2024,East,General Medicine,Dr. Iyer,Hypertension,Therapy,11559.44,11,Recovered,Male,36-50
+HSP-2049,16-08-2024,17-08-2024,East,Orthopedics,Dr. Khan,Diabetes,Therapy,40444.74,1,Under Treatment,Male,36-50
+HSP-2050,03-04-2024,04-04-2024,East,Pediatrics,Dr. Sharma,Infection,Therapy,77900.78,1,Recovered,Male,65+
+HSP-2051,03-01-2024,05-01-2024,East,Cardiology,Dr. Iyer,Infection,Surgery,62126.9,2,Under Treatment,Female,19-35
+HSP-2052,13-02-2024,23-02-2024,Central,Neurology,Dr. Roy,Hypertension,Observation,115825.15,10,Critical,Female,19-35
+HSP-2053,25-05-2024,06-06-2024,Central,Neurology,Dr. Sharma,Hypertension,Observation,111408.56,12,Critical,Male,65+
+HSP-2054,15-09-2024,25-09-2024,North,General Medicine,Dr. Roy,Hypertension,Medication,17338.3,10,Recovered,Male,36-50
+HSP-2055,23-02-2024,01-03-2024,West,General Medicine,Dr. Sharma,Hypertension,Surgery,95802.84,7,Critical,Male,51-65
+HSP-2056,15-05-2024,16-05-2024,West,Cardiology,Dr. Roy,Diabetes,Surgery,100598.43,1,Recovered,Female,36-50
+HSP-2057,08-02-2024,22-02-2024,East,Neurology,Dr. Roy,Fracture,Medication,112275.15,14,Under Treatment,Female,51-65
+HSP-2058,09-02-2024,17-02-2024,East,Cardiology,Dr. Mehta,Hypertension,Medication,16233.41,8,Recovered,Female,36-50
+HSP-2059,29-11-2024,11-12-2024,East,General Medicine,Dr. Mehta,Fracture,Surgery,74951,12,Under Treatment,Female,0-18
+HSP-2060,20-12-2024,24-12-2024,West,Orthopedics,Dr. Roy,Diabetes,Therapy,72376.11,4,Under Treatment,Male,65+
+HSP-2061,12-04-2024,17-04-2024,North,Pediatrics,Dr. Sharma,Migraine,Observation,16087.32,5,Critical,Female,36-50
+HSP-2062,17-07-2024,21-07-2024,South,Cardiology,Dr. Mehta,Heart Disease,Medication,113385.5,4,Under Treatment,Female,19-35
+HSP-2063,04-11-2024,18-11-2024,Central,Orthopedics,Dr. Sharma,Hypertension,Therapy,38550.62,14,Under Treatment,Female,0-18
+HSP-2064,22-03-2024,23-03-2024,West,Pediatrics,Dr. Patel,Migraine,Medication,65346.27,1,Under Treatment,Female,0-18
+HSP-2065,18-06-2024,19-06-2024,East,Orthopedics,Dr. Patel,Heart Disease,Medication,108388.42,1,Critical,Female,36-50
+HSP-2066,09-07-2024,11-07-2024,West,Pediatrics,Dr. Mehta,Heart Disease,Therapy,139185.25,2,Under Treatment,Male,36-50
+HSP-2067,22-02-2024,23-02-2024,East,Neurology,Dr. Iyer,Migraine,Observation,79089.63,1,Recovered,Female,51-65
+HSP-2068,15-01-2024,28-01-2024,West,General Medicine,Dr. Mehta,Fracture,Surgery,12174.02,13,Critical,Female,51-65
+HSP-2069,10-11-2024,23-11-2024,South,Orthopedics,Dr. Patel,Heart Disease,Medication,29760.61,13,Under Treatment,Female,36-50
+HSP-2070,01-06-2024,06-06-2024,East,Pediatrics,Dr. Roy,Fracture,Therapy,75061.39,5,Critical,Female,0-18
+HSP-2071,26-03-2024,06-04-2024,South,Cardiology,Dr. Iyer,Diabetes,Observation,84806.05,11,Under Treatment,Female,51-65
+HSP-2072,06-08-2024,09-08-2024,Central,Neurology,Dr. Iyer,Heart Disease,Medication,54583.51,3,Recovered,Female,19-35
+HSP-2073,07-07-2024,12-07-2024,Central,Neurology,Dr. Sharma,Hypertension,Observation,60511.49,5,Critical,Male,51-65
+HSP-2074,18-05-2024,24-05-2024,North,Pediatrics,Dr. Khan,Diabetes,Therapy,23251.7,6,Critical,Male,0-18
+HSP-2075,18-05-2024,02-06-2024,South,Pediatrics,Dr. Patel,Hypertension,Observation,67616.32,15,Under Treatment,Male,19-35
+HSP-2076,17-01-2024,24-01-2024,West,General Medicine,Dr. Patel,Heart Disease,Surgery,61770.56,7,Critical,Female,51-65
+HSP-2077,07-05-2024,20-05-2024,North,Neurology,Dr. Iyer,Fracture,Surgery,141516.13,13,Critical,Female,0-18
+HSP-2078,09-10-2024,22-10-2024,North,Cardiology,Dr. Iyer,Fracture,Surgery,98598.34,13,Under Treatment,Male,36-50
+HSP-2079,27-09-2024,08-10-2024,West,Cardiology,Dr. Sharma,Heart Disease,Therapy,81043.32,11,Critical,Male,51-65
+HSP-2080,13-05-2024,17-05-2024,Central,Cardiology,Dr. Sharma,Diabetes,Therapy,149474.24,4,Under Treatment,Female,19-35
+HSP-2081,31-08-2024,09-09-2024,South,General Medicine,Dr. Iyer,Heart Disease,Observation,107174.78,9,Under Treatment,Male,0-18
+HSP-2082,09-04-2024,17-04-2024,West,Cardiology,Dr. Khan,Fracture,Observation,139148.32,8,Recovered,Female,0-18
+HSP-2083,22-12-2024,28-12-2024,West,Orthopedics,Dr. Roy,Infection,Medication,5979.25,6,Under Treatment,Male,19-35
+HSP-2084,10-09-2024,14-09-2024,East,Neurology,Dr. Iyer,Infection,Medication,43428.18,4,Under Treatment,Male,65+
+HSP-2085,10-09-2024,20-09-2024,South,Neurology,Dr. Patel,Infection,Surgery,142570.39,10,Recovered,Female,0-18
+HSP-2086,19-04-2024,20-04-2024,Central,Neurology,Dr. Patel,Heart Disease,Surgery,31695.2,1,Under Treatment,Female,0-18
+HSP-2087,10-02-2024,25-02-2024,South,Orthopedics,Dr. Iyer,Fracture,Observation,9624.58,15,Critical,Female,36-50
+HSP-2088,18-06-2024,26-06-2024,South,Cardiology,Dr. Sharma,Heart Disease,Therapy,16710.63,8,Under Treatment,Male,65+
+HSP-2089,16-04-2024,23-04-2024,East,Orthopedics,Dr. Patel,Heart Disease,Surgery,107262.19,7,Recovered,Female,65+
+HSP-2090,16-08-2024,20-08-2024,East,Orthopedics,Dr. Roy,Infection,Surgery,96591.01,4,Recovered,Female,0-18
+HSP-2091,11-07-2024,12-07-2024,West,Cardiology,Dr. Sharma,Migraine,Medication,113356.59,1,Critical,Female,36-50
+HSP-2092,19-05-2024,25-05-2024,Central,Cardiology,Dr. Khan,Hypertension,Therapy,139013.07,6,Under Treatment,Male,65+
+HSP-2093,20-11-2024,22-11-2024,North,Neurology,Dr. Sharma,Infection,Observation,143317.03,2,Under Treatment,Female,51-65
+HSP-2094,09-09-2024,12-09-2024,West,Neurology,Dr. Sharma,Hypertension,Therapy,124299.51,3,Recovered,Male,36-50
+HSP-2095,12-06-2024,20-06-2024,East,General Medicine,Dr. Sharma,Diabetes,Medication,61794.38,8,Recovered,Male,51-65
+HSP-2096,03-02-2024,14-02-2024,North,Pediatrics,Dr. Mehta,Diabetes,Therapy,28300.4,11,Under Treatment,Male,0-18
+HSP-2097,15-05-2024,25-05-2024,North,Neurology,Dr. Sharma,Infection,Observation,148322.66,10,Under Treatment,Male,19-35
+HSP-2098,09-03-2024,16-03-2024,West,General Medicine,Dr. Roy,Fracture,Surgery,118063.84,7,Under Treatment,Female,36-50
+HSP-2099,17-10-2024,22-10-2024,East,Orthopedics,Dr. Roy,Migraine,Medication,68712.68,5,Recovered,Male,19-35
+HSP-2100,19-03-2024,24-03-2024,Central,Neurology,Dr. Khan,Heart Disease,Observation,41489.79,5,Recovered,Male,0-18
+HSP-2101,30-11-2024,08-12-2024,North,Cardiology,Dr. Sharma,Infection,Medication,126880.67,8,Under Treatment,Male,36-50
+HSP-2102,29-04-2024,01-05-2024,North,Neurology,Dr. Mehta,Diabetes,Medication,139875.19,2,Under Treatment,Male,51-65
+HSP-2103,04-11-2024,09-11-2024,North,Cardiology,Dr. Roy,Diabetes,Therapy,36558.59,5,Under Treatment,Female,19-35
+HSP-2104,23-01-2024,27-01-2024,East,Cardiology,Dr. Mehta,Hypertension,Medication,123137.84,4,Under Treatment,Female,36-50
+HSP-2105,04-04-2024,14-04-2024,East,Cardiology,Dr. Iyer,Heart Disease,Observation,84466.5,10,Recovered,Female,0-18
+HSP-2106,21-07-2024,01-08-2024,Central,Neurology,Dr. Roy,Diabetes,Surgery,99693.46,11,Under Treatment,Female,51-65
+HSP-2107,25-05-2024,05-06-2024,East,Pediatrics,Dr. Sharma,Migraine,Therapy,65041.6,11,Recovered,Female,19-35
+HSP-2108,19-07-2024,31-07-2024,West,Neurology,Dr. Sharma,Infection,Medication,66444.45,12,Recovered,Female,65+
+HSP-2109,05-07-2024,13-07-2024,South,Neurology,Dr. Sharma,Heart Disease,Medication,97896.67,8,Under Treatment,Male,65+
+HSP-2110,14-11-2024,29-11-2024,East,General Medicine,Dr. Iyer,Fracture,Therapy,46077.78,15,Critical,Male,0-18
+HSP-2111,25-02-2024,03-03-2024,West,Neurology,Dr. Khan,Fracture,Surgery,146454.25,7,Under Treatment,Female,0-18
+HSP-2112,07-11-2024,22-11-2024,West,Cardiology,Dr. Roy,Diabetes,Medication,97847.04,15,Recovered,Female,65+
+HSP-2113,10-04-2024,24-04-2024,West,Neurology,Dr. Mehta,Fracture,Surgery,62963.11,14,Critical,Male,51-65
+HSP-2114,02-07-2024,04-07-2024,South,Neurology,Dr. Roy,Fracture,Surgery,133160.06,2,Critical,Male,36-50
+HSP-2115,01-03-2024,08-03-2024,Central,Pediatrics,Dr. Mehta,Hypertension,Therapy,99109.04,7,Under Treatment,Male,51-65
+HSP-2116,18-07-2024,29-07-2024,East,Pediatrics,Dr. Mehta,Infection,Medication,8389.42,11,Critical,Female,51-65
+HSP-2117,30-04-2024,08-05-2024,Central,Pediatrics,Dr. Iyer,Infection,Observation,20526.03,8,Recovered,Female,51-65
+HSP-2118,06-07-2024,08-07-2024,West,General Medicine,Dr. Mehta,Hypertension,Surgery,10894.49,2,Recovered,Male,36-50
+HSP-2119,18-09-2024,20-09-2024,North,General Medicine,Dr. Patel,Hypertension,Medication,8749.19,2,Recovered,Male,19-35
+HSP-2120,08-03-2024,23-03-2024,West,Orthopedics,Dr. Iyer,Hypertension,Medication,14499.85,15,Under Treatment,Female,19-35
+HSP-2121,14-06-2024,29-06-2024,Central,Orthopedics,Dr. Patel,Fracture,Therapy,77821.6,15,Under Treatment,Male,65+
+HSP-2122,14-05-2024,24-05-2024,Central,Neurology,Dr. Khan,Migraine,Surgery,33846.61,10,Under Treatment,Male,36-50
+HSP-2123,13-12-2024,19-12-2024,West,Neurology,Dr. Khan,Heart Disease,Surgery,97266.21,6,Under Treatment,Female,65+
+HSP-2124,23-09-2024,03-10-2024,North,Orthopedics,Dr. Mehta,Hypertension,Observation,111998.85,10,Under Treatment,Female,51-65
+HSP-2125,07-07-2024,17-07-2024,South,Orthopedics,Dr. Khan,Heart Disease,Observation,38356.86,10,Critical,Male,36-50
+HSP-2126,21-09-2024,26-09-2024,East,General Medicine,Dr. Roy,Migraine,Surgery,113332.37,5,Recovered,Male,36-50
+HSP-2127,11-11-2024,22-11-2024,West,Pediatrics,Dr. Mehta,Migraine,Surgery,24143.38,11,Recovered,Male,0-18
+HSP-2128,28-01-2024,29-01-2024,Central,Orthopedics,Dr. Khan,Heart Disease,Therapy,82446.4,1,Under Treatment,Female,65+
+HSP-2129,09-03-2024,13-03-2024,East,General Medicine,Dr. Patel,Fracture,Medication,7046.24,4,Recovered,Male,51-65
+HSP-2130,19-02-2024,21-02-2024,South,Orthopedics,Dr. Patel,Migraine,Surgery,13138.93,2,Critical,Female,65+
+HSP-2131,26-11-2024,06-12-2024,West,General Medicine,Dr. Mehta,Hypertension,Observation,41032.07,10,Recovered,Male,0-18
+HSP-2132,29-09-2024,30-09-2024,West,Neurology,Dr. Iyer,Fracture,Surgery,137202.58,1,Recovered,Male,65+
+HSP-2133,09-10-2024,20-10-2024,South,Neurology,Dr. Patel,Fracture,Observation,122940.22,11,Recovered,Female,0-18
+HSP-2134,02-06-2024,13-06-2024,North,Pediatrics,Dr. Roy,Diabetes,Surgery,59398.02,11,Under Treatment,Female,0-18
+HSP-2135,01-12-2024,09-12-2024,South,Neurology,Dr. Sharma,Migraine,Medication,98382.86,8,Recovered,Female,36-50
+HSP-2136,30-12-2024,31-12-2024,East,General Medicine,Dr. Roy,Infection,Therapy,47864.46,1,Recovered,Male,65+
+HSP-2137,08-01-2024,11-01-2024,East,Neurology,Dr. Roy,Fracture,Medication,113191.95,3,Under Treatment,Male,51-65
+HSP-2138,17-06-2024,27-06-2024,South,Pediatrics,Dr. Roy,Hypertension,Observation,73460.38,10,Critical,Male,0-18
+HSP-2139,11-08-2024,23-08-2024,South,General Medicine,Dr. Khan,Fracture,Observation,95280.2,12,Recovered,Male,19-35
+HSP-2140,17-01-2024,18-01-2024,North,Cardiology,Dr. Mehta,Fracture,Therapy,146724.17,1,Critical,Male,0-18
+HSP-2141,22-01-2024,25-01-2024,North,Cardiology,Dr. Roy,Heart Disease,Surgery,129192.21,3,Under Treatment,Male,65+
+HSP-2142,06-12-2024,08-12-2024,West,Cardiology,Dr. Iyer,Fracture,Medication,21235.61,2,Recovered,Male,36-50
+HSP-2143,01-09-2024,03-09-2024,South,Cardiology,Dr. Roy,Fracture,Therapy,51275.14,2,Under Treatment,Female,0-18
+HSP-2144,28-06-2024,03-07-2024,East,Cardiology,Dr. Roy,Migraine,Therapy,116539.44,5,Critical,Female,36-50
+HSP-2145,12-11-2024,24-11-2024,North,Pediatrics,Dr. Sharma,Infection,Surgery,55283.34,12,Critical,Male,65+
+HSP-2146,16-10-2024,20-10-2024,North,General Medicine,Dr. Khan,Fracture,Observation,5188.36,4,Recovered,Female,0-18
+HSP-2147,03-01-2024,09-01-2024,West,Cardiology,Dr. Patel,Hypertension,Medication,145237.65,6,Critical,Female,65+
+HSP-2148,13-05-2024,23-05-2024,South,Orthopedics,Dr. Iyer,Hypertension,Medication,77255.76,10,Recovered,Male,51-65
+HSP-2149,22-12-2024,31-12-2024,North,Orthopedics,Dr. Khan,Heart Disease,Observation,139633.17,9,Critical,Male,51-65
+HSP-2150,26-11-2024,27-11-2024,East,Neurology,Dr. Khan,Migraine,Observation,135676.27,1,Critical,Male,51-65
+HSP-2151,18-11-2024,22-11-2024,West,Neurology,Dr. Mehta,Diabetes,Surgery,55530.39,4,Under Treatment,Male,51-65
+HSP-2152,04-12-2024,13-12-2024,East,Neurology,Dr. Patel,Infection,Therapy,88979.62,9,Recovered,Female,51-65
+HSP-2153,25-11-2024,10-12-2024,South,General Medicine,Dr. Iyer,Migraine,Therapy,114436.57,15,Critical,Male,19-35
+HSP-2154,06-05-2024,18-05-2024,East,General Medicine,Dr. Mehta,Migraine,Medication,39250.89,12,Recovered,Female,0-18
+HSP-2155,25-03-2024,05-04-2024,North,Neurology,Dr. Patel,Fracture,Medication,120258.73,11,Critical,Female,51-65
+HSP-2156,20-05-2024,24-05-2024,North,Cardiology,Dr. Khan,Fracture,Observation,72267.87,4,Recovered,Female,51-65
+HSP-2157,21-12-2024,25-12-2024,Central,Orthopedics,Dr. Patel,Heart Disease,Medication,42295.97,4,Critical,Female,0-18
+HSP-2158,04-05-2024,19-05-2024,West,General Medicine,Dr. Mehta,Hypertension,Observation,127669.06,15,Critical,Male,19-35
+HSP-2159,24-11-2024,26-11-2024,West,Pediatrics,Dr. Khan,Migraine,Surgery,134737.91,2,Recovered,Female,19-35
+HSP-2160,08-05-2024,22-05-2024,West,Pediatrics,Dr. Patel,Heart Disease,Observation,80146.58,14,Critical,Male,36-50
+HSP-2161,06-01-2024,13-01-2024,West,Cardiology,Dr. Sharma,Migraine,Medication,28322.18,7,Recovered,Female,0-18
+HSP-2162,21-10-2024,29-10-2024,Central,Neurology,Dr. Roy,Infection,Surgery,97692.89,8,Under Treatment,Female,51-65
+HSP-2163,21-08-2024,25-08-2024,South,Pediatrics,Dr. Mehta,Heart Disease,Therapy,97447.48,4,Under Treatment,Female,51-65
+HSP-2164,23-07-2024,24-07-2024,North,Cardiology,Dr. Patel,Infection,Therapy,89125.41,1,Recovered,Male,36-50
+HSP-2165,24-07-2024,02-08-2024,South,Pediatrics,Dr. Patel,Fracture,Medication,23748.38,9,Recovered,Male,51-65
+HSP-2166,24-11-2024,03-12-2024,South,Neurology,Dr. Khan,Hypertension,Observation,72874.63,9,Under Treatment,Male,51-65
+HSP-2167,30-06-2024,13-07-2024,South,Orthopedics,Dr. Roy,Infection,Therapy,147519.2,13,Critical,Male,51-65
+HSP-2168,02-01-2024,15-01-2024,East,Orthopedics,Dr. Iyer,Hypertension,Therapy,51446.47,13,Under Treatment,Female,65+
+HSP-2169,22-11-2024,24-11-2024,East,Neurology,Dr. Khan,Infection,Surgery,17365.59,2,Critical,Female,19-35
+HSP-2170,28-09-2024,12-10-2024,East,General Medicine,Dr. Sharma,Hypertension,Surgery,35413.67,14,Recovered,Female,36-50
+HSP-2171,07-11-2024,09-11-2024,Central,Neurology,Dr. Iyer,Fracture,Observation,55234.39,2,Recovered,Male,51-65
+HSP-2172,30-09-2024,03-10-2024,Central,General Medicine,Dr. Sharma,Hypertension,Therapy,33618.72,3,Critical,Male,65+
+HSP-2173,10-02-2024,22-02-2024,West,Cardiology,Dr. Mehta,Heart Disease,Therapy,65760.53,12,Recovered,Female,51-65
+HSP-2174,12-10-2024,13-10-2024,West,Pediatrics,Dr. Iyer,Hypertension,Observation,40752.16,1,Recovered,Male,19-35
+HSP-2175,13-06-2024,21-06-2024,Central,Pediatrics,Dr. Roy,Migraine,Observation,59368.89,8,Under Treatment,Male,19-35
+HSP-2176,22-11-2024,28-11-2024,North,Cardiology,Dr. Mehta,Heart Disease,Therapy,122246.94,6,Recovered,Female,51-65
+HSP-2177,14-03-2024,15-03-2024,South,Pediatrics,Dr. Roy,Fracture,Therapy,18697.47,1,Critical,Female,36-50
+HSP-2178,30-08-2024,12-09-2024,Central,General Medicine,Dr. Iyer,Migraine,Observation,54583.52,13,Under Treatment,Male,36-50
+HSP-2179,29-05-2024,04-06-2024,West,Pediatrics,Dr. Khan,Diabetes,Therapy,131579.87,6,Under Treatment,Male,51-65
+HSP-2180,01-03-2024,07-03-2024,South,Orthopedics,Dr. Roy,Migraine,Medication,90035.42,6,Critical,Male,0-18
+HSP-2181,23-07-2024,04-08-2024,Central,Pediatrics,Dr. Mehta,Diabetes,Surgery,62779.9,12,Recovered,Male,0-18
+HSP-2182,07-04-2024,21-04-2024,West,General Medicine,Dr. Roy,Heart Disease,Observation,94421.38,14,Critical,Male,19-35
+HSP-2183,21-01-2024,01-02-2024,West,Neurology,Dr. Sharma,Hypertension,Medication,131034.85,11,Under Treatment,Male,0-18
+HSP-2184,07-07-2024,21-07-2024,South,Orthopedics,Dr. Mehta,Hypertension,Therapy,130055.32,14,Recovered,Female,0-18
+HSP-2185,12-06-2024,13-06-2024,West,General Medicine,Dr. Roy,Diabetes,Surgery,77175.94,1,Critical,Male,0-18
+HSP-2186,03-08-2024,13-08-2024,West,Pediatrics,Dr. Sharma,Heart Disease,Observation,91110.1,10,Critical,Male,51-65
+HSP-2187,30-07-2024,08-08-2024,North,Cardiology,Dr. Roy,Infection,Medication,134886.98,9,Critical,Male,51-65
+HSP-2188,03-01-2024,04-01-2024,North,Cardiology,Dr. Iyer,Heart Disease,Medication,73488.11,1,Under Treatment,Male,51-65
+HSP-2189,05-04-2024,20-04-2024,North,Orthopedics,Dr. Roy,Hypertension,Medication,110809.66,15,Recovered,Female,65+
+HSP-2190,29-12-2024,06-01-2025,West,Orthopedics,Dr. Sharma,Hypertension,Surgery,6653.14,8,Recovered,Male,51-65
+HSP-2191,08-06-2024,13-06-2024,Central,Neurology,Dr. Patel,Diabetes,Surgery,50860.53,5,Critical,Female,51-65
+HSP-2192,12-12-2024,15-12-2024,South,Cardiology,Dr. Khan,Hypertension,Medication,96307.48,3,Under Treatment,Female,51-65
+HSP-2193,19-08-2024,24-08-2024,Central,Orthopedics,Dr. Khan,Migraine,Surgery,95167.86,5,Critical,Female,65+
+HSP-2194,08-01-2024,22-01-2024,South,General Medicine,Dr. Khan,Diabetes,Observation,146576.19,14,Recovered,Female,51-65
+HSP-2195,16-12-2024,23-12-2024,Central,Neurology,Dr. Patel,Migraine,Surgery,51621.25,7,Under Treatment,Female,19-35
+HSP-2196,27-10-2024,11-11-2024,North,Orthopedics,Dr. Iyer,Diabetes,Medication,44708.06,15,Critical,Female,36-50
+HSP-2197,30-09-2024,02-10-2024,Central,General Medicine,Dr. Patel,Infection,Medication,119215.07,2,Critical,Male,36-50
+HSP-2198,06-11-2024,07-11-2024,West,Pediatrics,Dr. Roy,Fracture,Therapy,90026.31,1,Recovered,Female,51-65
+HSP-2199,03-10-2024,05-10-2024,Central,Orthopedics,Dr. Sharma,Fracture,Observation,89040.61,2,Under Treatment,Female,51-65
+HSP-2200,16-09-2024,26-09-2024,South,Neurology,Dr. Iyer,Fracture,Surgery,31200.52,10,Critical,Female,36-50
+HSP-2201,22-10-2024,01-11-2024,East,Pediatrics,Dr. Mehta,Fracture,Medication,11466.2,10,Under Treatment,Female,0-18
+HSP-2202,09-07-2024,20-07-2024,West,Cardiology,Dr. Iyer,Migraine,Surgery,55013.64,11,Critical,Male,0-18
+HSP-2203,18-01-2024,22-01-2024,Central,Pediatrics,Dr. Mehta,Diabetes,Medication,42931.55,4,Under Treatment,Female,0-18
+HSP-2204,16-08-2024,29-08-2024,Central,General Medicine,Dr. Iyer,Migraine,Surgery,54132.26,13,Recovered,Female,0-18
+HSP-2205,15-01-2024,16-01-2024,North,General Medicine,Dr. Khan,Hypertension,Observation,75591.14,1,Recovered,Female,0-18
+HSP-2206,27-12-2024,29-12-2024,East,Orthopedics,Dr. Mehta,Fracture,Surgery,143680.9,2,Critical,Female,19-35
+HSP-2207,17-08-2024,31-08-2024,South,Orthopedics,Dr. Iyer,Hypertension,Medication,29957.98,14,Under Treatment,Female,0-18
+HSP-2208,10-10-2024,25-10-2024,North,Cardiology,Dr. Khan,Diabetes,Observation,13086.33,15,Recovered,Female,0-18
+HSP-2209,11-04-2024,22-04-2024,East,General Medicine,Dr. Mehta,Infection,Surgery,73255.18,11,Under Treatment,Female,51-65
+HSP-2210,04-03-2024,10-03-2024,West,Pediatrics,Dr. Iyer,Infection,Medication,122095.34,6,Critical,Male,51-65
+HSP-2211,09-04-2024,22-04-2024,North,Neurology,Dr. Iyer,Heart Disease,Therapy,133862.6,13,Recovered,Female,0-18
+HSP-2212,16-07-2024,30-07-2024,North,Cardiology,Dr. Patel,Migraine,Therapy,124343.82,14,Under Treatment,Male,36-50
+HSP-2213,14-03-2024,20-03-2024,South,Cardiology,Dr. Iyer,Hypertension,Observation,85239.24,6,Recovered,Female,19-35
+HSP-2214,16-05-2024,23-05-2024,West,Neurology,Dr. Iyer,Heart Disease,Therapy,87793.6,7,Under Treatment,Female,19-35
+HSP-2215,13-05-2024,21-05-2024,North,Orthopedics,Dr. Patel,Infection,Surgery,27238.51,8,Critical,Male,19-35
+HSP-2216,13-10-2024,21-10-2024,East,Cardiology,Dr. Khan,Fracture,Therapy,67648.63,8,Under Treatment,Male,19-35
+HSP-2217,19-02-2024,26-02-2024,East,Pediatrics,Dr. Iyer,Heart Disease,Therapy,25930.92,7,Critical,Male,51-65
+HSP-2218,16-09-2024,22-09-2024,Central,Neurology,Dr. Patel,Heart Disease,Therapy,31943.99,6,Under Treatment,Male,51-65
+HSP-2219,21-04-2024,26-04-2024,Central,Neurology,Dr. Iyer,Fracture,Medication,108184.65,5,Recovered,Male,0-18
+HSP-2220,07-11-2024,19-11-2024,West,Orthopedics,Dr. Iyer,Fracture,Medication,93802.83,12,Critical,Male,65+
+HSP-2221,06-06-2024,10-06-2024,North,Cardiology,Dr. Roy,Hypertension,Observation,126954.83,4,Recovered,Female,36-50
+HSP-2222,24-05-2024,07-06-2024,West,Cardiology,Dr. Sharma,Infection,Observation,24325.88,14,Critical,Female,19-35
+HSP-2223,05-04-2024,15-04-2024,East,Cardiology,Dr. Iyer,Hypertension,Therapy,88363.36,10,Recovered,Female,65+
+HSP-2224,16-08-2024,25-08-2024,North,Cardiology,Dr. Khan,Hypertension,Medication,123397.65,9,Under Treatment,Female,65+
+HSP-2225,01-02-2024,06-02-2024,North,Pediatrics,Dr. Patel,Diabetes,Surgery,81924.02,5,Critical,Male,0-18
+HSP-2226,04-05-2024,06-05-2024,South,General Medicine,Dr. Iyer,Fracture,Surgery,50227.37,2,Critical,Male,0-18
+HSP-2227,19-02-2024,05-03-2024,South,Orthopedics,Dr. Sharma,Diabetes,Observation,80822.13,15,Critical,Female,0-18
+HSP-2228,28-06-2024,12-07-2024,North,Neurology,Dr. Sharma,Migraine,Surgery,72402.58,14,Critical,Female,0-18
+HSP-2229,03-03-2024,05-03-2024,West,Neurology,Dr. Mehta,Diabetes,Medication,129858.09,2,Recovered,Female,51-65
+HSP-2230,25-03-2024,08-04-2024,North,Pediatrics,Dr. Roy,Infection,Surgery,62366.85,14,Recovered,Female,36-50
+HSP-2231,24-07-2024,28-07-2024,East,Pediatrics,Dr. Mehta,Migraine,Observation,127906.45,4,Recovered,Female,65+
+HSP-2232,16-03-2024,27-03-2024,East,Neurology,Dr. Patel,Hypertension,Surgery,57842.64,11,Critical,Male,0-18
+HSP-2233,15-06-2024,22-06-2024,South,General Medicine,Dr. Roy,Heart Disease,Medication,25213.97,7,Under Treatment,Female,0-18
+HSP-2234,21-01-2024,22-01-2024,Central,Orthopedics,Dr. Roy,Diabetes,Therapy,96096.15,1,Recovered,Male,36-50
+HSP-2235,03-03-2024,12-03-2024,North,Pediatrics,Dr. Iyer,Heart Disease,Therapy,21391.36,9,Under Treatment,Male,0-18
+HSP-2236,31-01-2024,10-02-2024,Central,Orthopedics,Dr. Sharma,Infection,Medication,68796.69,10,Critical,Male,36-50
+HSP-2237,27-07-2024,06-08-2024,East,Orthopedics,Dr. Iyer,Hypertension,Surgery,112358.52,10,Under Treatment,Female,65+
+HSP-2238,21-12-2024,31-12-2024,South,Pediatrics,Dr. Iyer,Diabetes,Therapy,71828.1,10,Critical,Female,65+
+HSP-2239,01-09-2024,09-09-2024,East,Cardiology,Dr. Iyer,Migraine,Medication,32376.59,8,Critical,Female,65+
+HSP-2240,21-07-2024,22-07-2024,East,Neurology,Dr. Iyer,Migraine,Therapy,76254.07,1,Under Treatment,Male,36-50
+HSP-2241,30-01-2024,12-02-2024,North,Neurology,Dr. Mehta,Heart Disease,Therapy,68797.99,13,Recovered,Female,51-65
+HSP-2242,30-06-2024,12-07-2024,North,General Medicine,Dr. Iyer,Hypertension,Medication,65429.01,12,Critical,Female,19-35
+HSP-2243,11-12-2024,15-12-2024,Central,General Medicine,Dr. Khan,Diabetes,Surgery,112121.16,4,Critical,Female,36-50
+HSP-2244,18-11-2024,30-11-2024,South,Pediatrics,Dr. Sharma,Heart Disease,Observation,116023.22,12,Critical,Male,51-65
+HSP-2245,22-07-2024,01-08-2024,South,Pediatrics,Dr. Khan,Diabetes,Surgery,60036.54,10,Under Treatment,Female,36-50
+HSP-2246,29-06-2024,04-07-2024,East,Pediatrics,Dr. Mehta,Diabetes,Observation,98989.17,5,Recovered,Female,51-65
+HSP-2247,15-08-2024,20-08-2024,South,General Medicine,Dr. Khan,Fracture,Observation,88437.76,5,Critical,Male,0-18
+HSP-2248,18-06-2024,24-06-2024,Central,Neurology,Dr. Khan,Fracture,Observation,134231.81,6,Recovered,Male,0-18
+HSP-2249,11-05-2024,21-05-2024,West,Orthopedics,Dr. Mehta,Migraine,Observation,80029.95,10,Critical,Female,51-65
+HSP-2250,25-08-2024,31-08-2024,North,General Medicine,Dr. Roy,Migraine,Observation,142445.49,6,Critical,Male,65+
+HSP-2251,27-04-2024,29-04-2024,West,Orthopedics,Dr. Mehta,Infection,Medication,132576.09,2,Under Treatment,Female,51-65
+HSP-2252,13-08-2024,26-08-2024,Central,General Medicine,Dr. Khan,Hypertension,Surgery,29754.74,13,Under Treatment,Female,0-18
+HSP-2253,08-06-2024,17-06-2024,South,Cardiology,Dr. Roy,Migraine,Therapy,123980.42,9,Critical,Female,19-35
+HSP-2254,25-09-2024,30-09-2024,Central,Neurology,Dr. Mehta,Fracture,Observation,31449.44,5,Critical,Male,36-50
+HSP-2255,18-10-2024,29-10-2024,North,Pediatrics,Dr. Sharma,Heart Disease,Therapy,108042.48,11,Critical,Male,36-50
+HSP-2256,22-07-2024,05-08-2024,North,General Medicine,Dr. Sharma,Hypertension,Surgery,33514.31,14,Under Treatment,Female,65+
+HSP-2257,20-09-2024,23-09-2024,Central,Neurology,Dr. Patel,Diabetes,Surgery,26076.32,3,Critical,Male,0-18
+HSP-2258,21-02-2024,23-02-2024,South,General Medicine,Dr. Patel,Infection,Observation,121957.01,2,Recovered,Male,65+
+HSP-2259,14-06-2024,17-06-2024,South,Orthopedics,Dr. Khan,Fracture,Surgery,43658.46,3,Recovered,Male,36-50
